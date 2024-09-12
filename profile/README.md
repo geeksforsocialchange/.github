@@ -2,9 +2,7 @@
 
 We're a trans and disabled-led community of people creating technology for community liberation. We welcome new members.
 
-You can find out more about how to get involved on our [WIP community website](https://www.gfsc.community/). The easiest way to get involved though is on our [Discord server](http://discord.gfsc.studio)!
-
-Full organisational intro coming soon...
+You can find out more about how to get involved on our [WIP community website](https://www.gfsc.community/). The easiest way to get involved though is on our [Discord server](http://discord.gfsc.studio)! Full organisational intro coming soon...
 
 <!--
 
