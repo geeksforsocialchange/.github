@@ -4,7 +4,10 @@ We're a trans and disabled-led community of people creating technology for commu
 
 You can find out more about how to get involved on our [WIP community website](https://www.gfsc.community/)
 
-The easiest way to get involved though is through our [discord server](http://discord.gfsc.studio)!
+The easiest way to get involved though is on our [Discord server](http://discord.gfsc.studio)!
+
+Full organisational intro coming soon!
+
 <!--
 
 **Here are some ideas to get you started:**
